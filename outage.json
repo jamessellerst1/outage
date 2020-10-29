@@ -1,5 +1,5 @@
 {
-  "systemDown": true,
+  "systemDown": false,
   "title": "Outage page demo title",
   "message": "Currently testing outage page funcionality...",
   "footer": "Last updated at Mon, Okt 26th 2020, 15:15 CT"
